@@ -1,0 +1,26 @@
+{
+  "name": "generate-pdfs",
+  "version": "1.0.0",
+  "description": "Generate pdf files.",
+  "main": "pdf.js",
+  "dependencies": {
+    "pdf-creator-node": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srizzon/generate-pdfs.git"
+  },
+  "keywords": [
+    "pdf"
+  ],
+  "author": "Samuel Rizzon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srizzon/generate-pdfs/issues"
+  },
+  "homepage": "https://github.com/srizzon/generate-pdfs#readme"
+}
