@@ -24,8 +24,6 @@ node pdf.js
 
 To generate more pdf files, enter the total number of files to be generated after "pdf.js".
 ```JS
-node pdf.js 5
-OR
 node pdf.js 12
 ```
 
