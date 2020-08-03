@@ -27,10 +27,16 @@ To generate more pdf files, enter the total number of files to be generated afte
 node pdf.js 12
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Author
 
-Please make sure to update tests as appropriate.
+👤 **Samuel Rizzon**
+
+- Linkedin: [@shrizzon](https://www.linkedin.com/in/shrizzon/)
+- Instagram: [@shrizzon](https://www.instagram.com/shrizzon/)
+- Github: [@srizzon](https://github.com/srizzon)
+
+## Contributing
+Pull requests are welcome.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
